@@ -1,0 +1,36 @@
+.wrapper-div{
+    margin: auto;
+    width: 500px;
+    padding:10px;
+    border: 2px solid #000;
+    text-align: center;
+}
+button{
+    padding: 15px;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+#start-btn{
+    background: #428bca;
+}
+#stop{
+    background: #d9534f;
+}
+#play-ground{
+    margin: 10px;
+}
+button:focus{
+    outline: none;
+}
+h1{
+    margin: 5px;
+}
+canvas{
+    border: 2px solid #000;
+}
+#new-game{
+    color:#000;
+}
